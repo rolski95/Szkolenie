@@ -1,6 +1,4 @@
-test-po myslniku
-
-
+test
 
 dfgfgghhhh
 
